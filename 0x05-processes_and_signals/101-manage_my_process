@@ -1,4 +1,4 @@
-`#!/usr/bin/env bash
+#!/usr/bin/env bash
 # Manages 'manage_my_process'
 
 if [ $# -gt 0 ]
